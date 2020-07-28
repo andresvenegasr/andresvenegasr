@@ -1,6 +1,11 @@
-# <img src="https://raw.githubusercontent.com/andresvenegasr/andresvenegasr/master/favicon.ico" align="left" height="56" width="56" > Hi! my name is Andrés Venegas 👋
+# <img src="https://raw.githubusercontent.com/andresvenegasr/andresvenegasr/master/favicon.ico" align="left" height="56" width="56" > Hi! my name is Andrés Venegas 🐺
 
+### Backend and frontend developer 💻
 
+I'm a Telematics enginner from Querétaro, México and professional software developer for more than 5 years. Currently I work as .NET Developer for ITP Aero. Most of my free time I improve my dev skills learning new back and front technologies.
+
+Follow me: [@venegasdev](https://twitter.com/venegasdev)
+Contact me: [contacto@venegas.dev](mailto:contacto@venegas.dev)
 
 <!--
 **andresvenegasr/andresvenegasr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
