@@ -1,4 +1,4 @@
-# ![https://venegas.dev](https://github.com/andresvenegasr/andresvenegasr/blob/master/LOGO_ANDRES_VENEGAS.png=56x56) Hi! my name is Andrés Venegas 👋
+# ![test](https://raw.githubusercontent.com/andresvenegasr/andresvenegasr/master/favicon.ico | width=48) Hi! my name is Andrés Venegas 👋
 
 <!--
 **andresvenegasr/andresvenegasr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
