@@ -18,10 +18,15 @@ namespace Venegas.Developer
         private readonly string name = "Andrés Venegas Ruiz";
         private readonly int age = 25;
         private readonly string email = "contacto@venegas.dev";
-
-        public void ContactMe(ILogger<AndresVenegasRuiz> logger){
+        
+        public AndresVenegasRuiz(IUserService userService)
+        {
             _logger = logger
                 ?? throw new ArgumentNullException(nameof(logger));
+        }
+
+        public void ContactMe(){
+            _logger.Debug(" Write me to: contacto@venegas.dev ");
         }
 
         public void SocialNetworks(){
