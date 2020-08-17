@@ -19,7 +19,7 @@ namespace Venegas.Developer
         private readonly int age = 25;
         private readonly string email = "contacto@venegas.dev";
         
-        public AndresVenegasRuiz(IUserService userService)
+        public AndresVenegasRuiz(ILogger<AndresVenegasRuiz> logger)
         {
             _logger = logger
                 ?? throw new ArgumentNullException(nameof(logger));
